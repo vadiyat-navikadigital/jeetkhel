@@ -93,10 +93,10 @@
     .main {
         background-image: url('../images/android-1.png') !important;
         background-repeat: no-repeat;
-        background-size: 100% auto;
+        /* background-size: 100% 100%; */
         background-position: center;
         width: 100%;
-        height: auto !important;
+        height: 100vh !important;
         overflow: hidden;
     }
 

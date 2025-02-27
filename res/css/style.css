@@ -74,6 +74,11 @@
 }
 
 @media only screen and (max-width: 650px) {
+
+    #move-top {
+        display: none !important;
+    }
+
     .win-big {
         font-size: 35px !important;
     }
